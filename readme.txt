@@ -13,6 +13,8 @@ Online hex calculator performs hex math operations and conversions. Hex addition
 
 Online hex calculator performs hex math operations and conversions. Hex addition, hex subtraction, hex multiplication, hex division became fast & easy
 
+[Hex Calculator Homepage](https://www.calculator.io/hex-calculator/ "Hex Calculator Homepage")
+
 __Shortcode__
 
 Use the Hex Calculator shortcode:
