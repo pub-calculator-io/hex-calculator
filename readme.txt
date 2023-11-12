@@ -13,34 +13,35 @@ Online hex calculator performs hex math operations and conversions. Hex addition
 
 Online hex calculator performs hex math operations and conversions. Hex addition, hex subtraction, hex multiplication, hex division became fast & easy
 
-[Hex Calculator Homepage](https://www.calculator.io/hex-calculator/ "Hex Calculator Homepage")
+[https://www.calculator.io/hex-calculator/](https://www.calculator.io/hex-calculator/)
 
-__Shortcode__
-
-Use the Hex Calculator shortcode:
+__Hex Calculator Shortcode__
 
 `[ci_hex_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_hex_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Hex Calculator](https://www.calculator.io/hex-calculator/ "Hex Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Hex Calculator Usage ==
+
 * Add the shortcode `[ci_hex_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_hex_calculator(); ?>` to your template where you would like the Hex Calculator to appear.
 
 == Screenshots ==
+
 1. The Hex Calculator Input Form.
 2. The Hex Calculator Calculation Results.
+
+== Libraries used in Hex Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
