@@ -1,6 +1,6 @@
 === Hex Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: hex calculator, hexadecimal calculator, hex conversion, hexadecimal conversion, convert hex, hex to decimal, decimal to hex, hex to binary, binary to hex, hex math
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
