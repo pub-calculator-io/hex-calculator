@@ -1,4 +1,4 @@
-# Hex Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Hex Calculator Widget for WordPress
 
 Online hex calculator performs hex math operations and conversions. Hex addition, hex subtraction, hex multiplication, hex division became fast & easy
 
