@@ -1,4 +1,4 @@
-=== Hex Calculator ===
+=== Hex Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: hex calculator, hexadecimal calculator, hex conversion, hexadecimal conversion, convert hex, hex to decimal, decimal to hex, hex to binary, binary to hex, hex math
 Requires at least: 5.0

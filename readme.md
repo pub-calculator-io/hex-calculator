@@ -7,7 +7,7 @@ Online hex calculator performs hex math operations and conversions. Hex addition
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/hex-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /hex-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Hex Calculator](https://www.calculator.io/hex-calculator/ "Hex Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
