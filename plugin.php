@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Hex Calculator by www.calculator.io
+Plugin Name: CI Hex calculator
 Plugin URI: https://www.calculator.io/hex-calculator/
 Description: Online hex calculator performs hex math operations and conversions. Hex addition, hex subtraction, hex multiplication, hex division became fast & easy
 Version: 1.0.0
