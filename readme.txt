@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Hex Calculator 
 == Screenshots ==
 
 1. The Hex Calculator Input Form.
-2. The Hex Calculator Calculation Results.
 
 == Installation ==
 

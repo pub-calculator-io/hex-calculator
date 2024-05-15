@@ -32,7 +32,7 @@
                 </div>
                 <div class="calculator-content col tab tab--active" data-tab="0">
                 	<div class="input-wrapper row">
-                		<label class="input col   ">
+                		<label class="input col scientific-calculator,binary-calculator,modulo-calculator,integer-calculator  ">
                 			<p class="input__title">Decimal</p>
                 			<div class="input-field row">
                 				<input type="text" class="input-field__input" placeholder=""  id="dec" value="170"  />
@@ -90,20 +90,25 @@
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Convert</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Convert</button>
                 </div>
                 
                 
+                	<script type="text/javascript" src="./assets/js/lib/math.min.js" async></script>
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
                 <div class="calculator-content calculator-content--gray calculator-content--footer calculator-content--small row tab " data-tab="1">
                 
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Calculate</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
                 </div>
+                
+                
                 
                 
                 
@@ -122,8 +127,7 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
+        	<div class="col" id="error-list"></div>
         </div>        <span id="calculator_result"><div class="calculator-result col tab tab--active" data-tab="0">
 	<div class="result-table__wrapper"> 
 		<table class="result-table">
@@ -132,7 +136,7 @@
 					<th class="dark indigo" colspan="2">Answer</th>
 				</tr>
 			</thead>
-			<tbody>
+			<tbody class="animate">
 				<tr>
 					<th>Decimal to Hex</th>
 					<td id="dec_to_hex">170 = AA</td>
@@ -154,7 +158,7 @@
 					<th class="dark indigo" colspan="2">Answer</th>
 				</tr>
 			</thead>
-			<tbody>
+			<tbody class="animate">
 				<tr>
 					<th>Hex value</th>
 					<td id="hex_result">8AB + B78 = 1423</td>

@@ -3,7 +3,6 @@
 Online hex calculator performs hex math operations and conversions. Hex addition, hex subtraction, hex multiplication, hex division became fast & easy
 
 ![Hex Calculator Input Form](/assets/images/screenshot-1.png "Hex Calculator Input Form")
-![Hex Calculator Calculation Results](/assets/images/screenshot-2.png "Hex Calculator Calculation Results")
 
 ## Installation
 
